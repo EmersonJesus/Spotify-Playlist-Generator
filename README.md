@@ -16,7 +16,7 @@ O Spotify Playlist Generator é uma ferramenta que permite criar e personalizar 
 
 ## Capturas de Tela
 
-[Imagem do projeto em execução](https://i.imgur.com/SDe0Sqt.png)
+![Imagem do projeto em execução](https://i.imgur.com/SDe0Sqt.png)
 
 ## Pré-requisitos
 
