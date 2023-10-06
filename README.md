@@ -20,7 +20,7 @@ O Spotify Playlist Generator é uma ferramenta que permite criar e personalizar 
 
 ## Pré-requisitos
 
-- Conta no Desenvolvedor no Spotify
+- Conta Desenvolvedor no Spotify
 - Python 3 e bibliotecas necessárias
 
 ## Instalação
